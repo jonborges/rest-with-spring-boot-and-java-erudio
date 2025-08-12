@@ -52,6 +52,14 @@ Esse passo garante que a aplicação está funcionando corretamente antes de ava
 
 - Aula teórica sobre versionamento de APIs.  
 - Será utilizado o **FlyWay** para gerenciar versões do banco de dados.
+  
+---
+
+## 11. Suporte ao Myflay
+
+- Utilização do Myflay para criação do banco, organização dos arquivos no Resources/migration.  
+- Foi mostrado como utilizar o Prompt para rodar as mudanças, além do Plugin Maven + Sql.
+
 
 ---
 
