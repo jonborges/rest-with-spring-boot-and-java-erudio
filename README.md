@@ -63,5 +63,10 @@ Esse passo garante que a aplicação está funcionando corretamente antes de ava
 
 ---
 
+## 12. Configuração do Serialization
+
+- Personalizar e controlar o Json, alterando dados, ocultando dados importantes.  
+- Como lidar com formatos de campos Data.
+- Propriedades condicionais 
 
 
