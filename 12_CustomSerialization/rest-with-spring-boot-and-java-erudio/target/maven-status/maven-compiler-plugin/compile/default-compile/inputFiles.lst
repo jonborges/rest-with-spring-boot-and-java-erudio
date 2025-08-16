@@ -1,0 +1,12 @@
+C:\Users\Jonathan\Downloads\Erudio-Curso\Erudio-Curso\rest-with-spring-boot-and-java-erudio-main\12_Json_Serialization\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\config\ObjectMapperConfig.java
+C:\Users\Jonathan\Downloads\Erudio-Curso\Erudio-Curso\rest-with-spring-boot-and-java-erudio-main\12_Json_Serialization\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\controllers\PersonController.java
+C:\Users\Jonathan\Downloads\Erudio-Curso\Erudio-Curso\rest-with-spring-boot-and-java-erudio-main\12_Json_Serialization\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\controllers\TestLogController.java
+C:\Users\Jonathan\Downloads\Erudio-Curso\Erudio-Curso\rest-with-spring-boot-and-java-erudio-main\12_Json_Serialization\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\data\dto\PersonDTO.java
+C:\Users\Jonathan\Downloads\Erudio-Curso\Erudio-Curso\rest-with-spring-boot-and-java-erudio-main\12_Json_Serialization\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\exception\ExceptionResponse.java
+C:\Users\Jonathan\Downloads\Erudio-Curso\Erudio-Curso\rest-with-spring-boot-and-java-erudio-main\12_Json_Serialization\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\exception\ResourceNotFoundException.java
+C:\Users\Jonathan\Downloads\Erudio-Curso\Erudio-Curso\rest-with-spring-boot-and-java-erudio-main\12_Json_Serialization\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\mapper\ObjectMapper.java
+C:\Users\Jonathan\Downloads\Erudio-Curso\Erudio-Curso\rest-with-spring-boot-and-java-erudio-main\12_Json_Serialization\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\model\Person.java
+C:\Users\Jonathan\Downloads\Erudio-Curso\Erudio-Curso\rest-with-spring-boot-and-java-erudio-main\12_Json_Serialization\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\repository\PersonRepository.java
+C:\Users\Jonathan\Downloads\Erudio-Curso\Erudio-Curso\rest-with-spring-boot-and-java-erudio-main\12_Json_Serialization\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\serializer\GenderSerializer.java
+C:\Users\Jonathan\Downloads\Erudio-Curso\Erudio-Curso\rest-with-spring-boot-and-java-erudio-main\12_Json_Serialization\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\services\PersonServices.java
+C:\Users\Jonathan\Downloads\Erudio-Curso\Erudio-Curso\rest-with-spring-boot-and-java-erudio-main\12_Json_Serialization\rest-with-spring-boot-and-java-erudio\src\main\java\br\com\erudio\Startup.java
