@@ -67,6 +67,15 @@ Esse passo garante que a aplicação está funcionando corretamente antes de ava
 
 - Personalizar e controlar o Json, alterando dados, ocultando dados importantes.  
 - Como lidar com formatos de campos Data.
-- Propriedades condicionais 
+- Propriedades condicionais
+
+- ---
+
+## 13. Lidando com Vários tipos de Arquivos
+
+- Adicionado ao Pom jackson-dataformat-xml e yaml 
+- Pasta config e controller configurados com todos os retornos de tipos de arquivos
+- Por fim, nova pasta serialization converter com o YAMLMapper configurado
+- ATENÇÃO: Foi necessário adicionar a versão 2.15.2 do jackson-dataformat-yaml de forma MANUAL, pois versões novas estão com conflito com o método YAMLMapper
 
 
