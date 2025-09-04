@@ -78,4 +78,11 @@ Esse passo garante que a aplicação está funcionando corretamente antes de ava
 - Por fim, nova pasta serialization converter com o YAMLMapper configurado
 - ATENÇÃO: Foi necessário adicionar a versão 2.15.2 do jackson-dataformat-yaml de forma MANUAL, pois versões novas estão com conflito com o método YAMLMapper
 
+## 14. Configurando Hateoas e Novos testes Mockito
+
+- Configurado o Hateoas com os Links de todas as operações do CRUD  
+- Testes para todas as operações do Service
+- Simulação de exceções  
+
+
 
