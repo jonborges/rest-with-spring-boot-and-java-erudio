@@ -93,5 +93,17 @@ Esse passo garante que a aplicação está funcionando corretamente antes de ava
 - Novo db_migration CREATE-TABLE-BOOK
 - Adicionada entidade Book, junto de seu Controller, Service e Repositório
 
+- - ---
+## 16. Configuração do Docker Container (meu Docker Hub: https://hub.docker.com/repositories/jonborges)
+
+- Novo arquivo para exemplificar containers com Docker
+- Criação e envio da imagem no Docker Hub
+- Teórica: O que são containers, images, BIN/EXE
+- Acessando a image que está no Docker Hub diretamente pelo terminal
+- Conhecendo os comantos mais utilizados do Docker [Comandos Docker mais utilizados (PDF)](https://www.dropbox.com/scl/fi/sacdhpkozhy42d6s4uq5r/comandos_docker_atualizados.pdf?rlkey=3fefv7sgtj9bm2ykvrovsbvlh&st=q0pys1l6&raw=1)
+- Conhecendo Arquitetura do Docker, Gerenciamento de Docker Images e Comandos stats, system 
+  
+
+
 
 
