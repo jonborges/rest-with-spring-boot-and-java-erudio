@@ -102,7 +102,14 @@ Esse passo garante que a aplicação está funcionando corretamente antes de ava
 - Acessando a image que está no Docker Hub diretamente pelo terminal
 - Conhecendo os comantos mais utilizados do Docker [Comandos Docker mais utilizados (PDF)](https://www.dropbox.com/scl/fi/sacdhpkozhy42d6s4uq5r/comandos_docker_atualizados.pdf?rlkey=3fefv7sgtj9bm2ykvrovsbvlh&st=q0pys1l6&raw=1)
 - Conhecendo Arquitetura do Docker, Gerenciamento de Docker Images e Comandos stats, system 
-  
+
+- - ---
+## 17. Configuração dos Testes de Integração
+
+- TestContainers e Rest-assured adicionados ao Pom
+- Construção do Yaml dos Testes para acessar o banco de forma dinâmica
+- Novos testes e nova organização de pastas
+- Importando Swagger Api-Doc para utilizar no Postman 
 
 
 
