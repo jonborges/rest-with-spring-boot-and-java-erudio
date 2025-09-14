@@ -1,4 +1,4 @@
-# Guia Rápido do Projeto Spring Boot
+# Guia do Projeto Spring Boot, sendo organizado por sessões de aulas de determinado assunto.
 
 ---
 
@@ -109,7 +109,15 @@ Esse passo garante que a aplicação está funcionando corretamente antes de ava
 - TestContainers e Rest-assured adicionados ao Pom
 - Construção do Yaml dos Testes para acessar o banco de forma dinâmica
 - Novos testes e nova organização de pastas
-- Importando Swagger Api-Doc para utilizar no Postman 
+- Importando Swagger Api-Doc para utilizar no Postman
+
+- - - ---
+## 18. Configuração Cros-Origin Resource Sharing (Cors)
+
+- Habilitando Cors de forma local em cada operação, depois alterando para Global no WebConfig
+- Criação de testes para validar se o CORS está funcionando 
+- Testando diferentes Origin e cenários no Postman
+
 
 
 
