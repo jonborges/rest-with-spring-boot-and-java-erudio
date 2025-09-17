@@ -118,6 +118,13 @@ Esse passo garante que a aplicação está funcionando corretamente antes de ava
 - Criação de testes para validar se o CORS está funcionando 
 - Testando diferentes Origin e cenários no Postman
 
+- - - - ---
+## 18. Verbo PATCH + Novos testes em Json, Xml e Yaml
+
+- Criando o Disable Person para exemplificar o Patch, um serviço que desabilita uma Person pelo Id
+- Criação de testes para a nova rota Patch em Json
+- Terminado arquivo Json, agora são criados testes de TODAS as operações em Json, Yaml e Xml
+
 
 
 
