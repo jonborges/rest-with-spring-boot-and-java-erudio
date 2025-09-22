@@ -119,11 +119,20 @@ Esse passo garante que a aplicação está funcionando corretamente antes de ava
 - Testando diferentes Origin e cenários no Postman
 
 - - - - ---
-## 18. Verbo PATCH + Novos testes em Json, Xml e Yaml
+## 19. Verbo PATCH + Novos testes em Json, Xml e Yaml
 
 - Criando o Disable Person para exemplificar o Patch, um serviço que desabilita uma Person pelo Id
 - Criação de testes para a nova rota Patch em Json
 - Terminado arquivo Json, agora são criados testes de TODAS as operações em Json, Yaml e Xml
+
+- - - - ---
+## 20. Query Params, Hal, Parâmetros de Paginação, Multiformatos testes, testes de repository
+
+- Busca paginada, Mookaru e validações com testes, adicionado Pageable nos endpoints 
+- Ordenação com Direction, Aplicação do Hal junto com Hateoas para proporcionar mais informações
+- Novo método: Buscar pessoa/livro pelo NOME
+- Novas pastas de Testes, nova separação por Json, Xml e Yaml
+- Novos testes para os Repository
 
 
 
