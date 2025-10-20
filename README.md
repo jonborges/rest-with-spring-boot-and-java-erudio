@@ -142,6 +142,16 @@ Esse passo garante que a aplicação está funcionando corretamente antes de ava
 - Criado Serviço e Controller responsáveis pelo upload e download
 - Nova pasta no Postman para testar
 
+- - - - ---
+## 22. Importador e exportador de planilhas
+
+- Adicionadas as dependencias no Maven
+- Factory de Importação em Csv e Xlsx
+- Implementado HATEOAS
+- Factory de Exportação em Csv e XLsx
+- Novo endpoint Exportar e Importar, sincronizado no Swagger, service e controller
+  
+
 
 
 
